@@ -1,6 +1,28 @@
 # Rainfall Prediction using Machine Learning
 
-This project predicts whether it will rain or not based on various weather parameters. It uses a Random Forest Classifier to make the predictions.
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data](#data)
+- [Model](#model)
+- [Evaluation](#evaluation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+This project focuses on predicting rainfall using various meteorological parameters through machine learning. It leverages a Random Forest Classifier, a powerful ensemble learning method, to analyze historical weather data and forecast whether it will rain. The goal is to provide an accurate and robust prediction model for rainfall events.
+
+## Features
+
+- **Rainfall Prediction**: Predicts rainfall based on historical weather data.
+- **Machine Learning Model**: Utilizes a Random Forest Classifier for accurate predictions.
+- **Data Preprocessing**: Handles various weather parameters including temperature, humidity, wind speed, and more.
+- **Model Evaluation**: Provides evaluation metrics such as accuracy, confusion matrix, and classification report.
+- **Jupyter Notebook**: Fully documented and runnable Jupyter Notebook for easy understanding and reproduction.
 
 ## Installation
 
